@@ -1,0 +1,25 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.light-theme {
+  background-color: #eaefe8;
+  color: #2f3238;
+}
+
+.dark-theme {
+  background-color: #242f33;
+  color: #eaefe8;
+}
+.text-wrap {
+  text-align: center;
+  font-weight: bold;
+}
